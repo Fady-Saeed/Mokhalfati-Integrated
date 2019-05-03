@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Fady-Saeed/DriverLicenseDataExtractor
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Fady-Saeed/Mokhalfati
